@@ -39,7 +39,7 @@ Upload nothing. Configure nothing. Open the dashboard → risk intelligence, ins
 
 ## 📸 Dashboard Preview
 
-> *Screenshot coming — deploy link above for live view*
+> ![Dashboard Preview](assets/dashboard.png)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
