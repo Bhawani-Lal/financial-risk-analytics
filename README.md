@@ -9,7 +9,7 @@
 ![yfinance](https://img.shields.io/badge/yfinance-Live_Data-6929C4?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-🔴 **[Live Demo →](https://your-app-link.streamlit.app)** &nbsp;|&nbsp; 📁 **[View Code →](./app.py)**
+🔴 **[Live Demo →](https://financial-risk-analytics-gnwpm6esocx32qmxwthtmn.streamlit.app)** &nbsp;|&nbsp; 📁 **[View Code →](./app.py)**
 
 ---
 
